@@ -1,3 +1,7 @@
+NAME: NAVEEN RAJ S
+REGISTER NO: 230701395    
+
+
 #include<stdio.h>
 #define inf 99999
 #define max 100
