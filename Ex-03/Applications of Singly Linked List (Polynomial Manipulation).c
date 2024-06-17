@@ -1,3 +1,6 @@
+NAME: NAVEEN RAJ S
+REGISTER NO: 230701395    
+
 #include <stdio.h>
 #include <stdlib.h>
 
